@@ -1,0 +1,338 @@
+[
+    {
+        "Endere\u00e7o": "Av. Mal. Floriano Peixoto, 8430 - 41 - Boqueir\u00e3o, Curitiba - PR, 81650-010",
+        "NomeLugar": "Secretaria Municipal de Educa\u00e7\u00e3o",
+        "coord": [
+            -49.237541,
+            -25.501189
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Milton Miramir Visinoni, 4 - S\u00edtio Cercado, Curitiba - PR, 81920-070 ",
+        "NomeLugar": "Cec\u00edlia Meireles",
+        "coord": [
+            -49.251564,
+            -25.540196
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Celeste Tortato Gabardo, 1090 - S\u00edtio Cercado , Curitiba - PR, 81900-440 ",
+        "NomeLugar": "Rubem Braga",
+        "coord": [
+            -49.283429,
+            -25.544468
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Izaac Ferreira da Cruz, 3560 - S\u00edtio Cercado , Curitiba - PR, 81910-000 ",
+        "NomeLugar": "Senador Accioly Filho",
+        "coord": [
+            -49.266909,
+            -25.534236
+        ]
+    },
+    {
+        "Endere\u00e7o": "Av. Luiza Gulin - Bacacheri , Curitiba - PR, 82600-650 ",
+        "NomeLugar": "Ant\u00f4nio Callado",
+        "coord": [
+            -49.215705,
+            -25.395562
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Ayrton Luciano Franco - Santa C\u00e2ndida , Curitiba - PR, 82630-440 ",
+        "NomeLugar": "Gilberto Freyre",
+        "coord": [
+            -49.210164,
+            -25.366424
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Rio Iriri, 504 - Bairro Alto , Curitiba - PR, 82840-310 ",
+        "NomeLugar": "Heitor Stockler de Fran\u00e7a",
+        "coord": [
+            -49.210216,
+            -25.4047
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Jornalista Alceu Chichorro. 180 - Bairro Alto , Curitiba - PR, 82820-290 ",
+        "NomeLugar": "Jo\u00e3o Guimar\u00e3es Rosa",
+        "coord": [
+            -49.206107,
+            -25.414055
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Saturnino Arruda dos Santos, 80 - Pilarzinho , Curitiba - PR, 82110-330 ",
+        "NomeLugar": "Manuel Bandeira",
+        "coord": [
+            -49.284648,
+            -25.388467
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Jo\u00e3o Batista Scucato, 80 - Atuba , Curitiba - PR, 82860-130 ",
+        "NomeLugar": "Tel\u00eamaco Borba",
+        "coord": [
+            -49.200796,
+            -25.384656
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Ayrton Pizzatto Gusi, 241 - Xaxim , Curitiba - PR, 81830-320 ",
+        "NomeLugar": "Albert Einstein",
+        "coord": [
+            -49.255509,
+            -25.524546
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Prof. Jos\u00e9 Nogueira dos Santos, 1272 - Boqueir\u00e3o , Curitiba - PR, 81630-170 ",
+        "NomeLugar": "Fernando Pessoa",
+        "coord": [
+            -49.253539,
+            -25.497239
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Ulisses Geraldo Moro - Alto Boqueir\u00e3o , Curitiba - PR, 81770-000 ",
+        "NomeLugar": "Lu\u00eds de Cam\u00f5es",
+        "coord": [
+            -49.245671,
+            -25.529602
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua O Brasil Para Cristo, 588 - Boqueir\u00e3o , Curitiba - PR, 81650-110 ",
+        "NomeLugar": "M\u00e1rio Quintana",
+        "coord": [
+            -49.227357,
+            -25.502555
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Capit\u00e3o Le\u00f4nidas Marques, 6480 - Uberaba , Curitiba - PR, 81550-000 ",
+        "NomeLugar": "C\u00e9sar Pernetta",
+        "coord": [
+            -49.213727,
+            -25.482652
+        ]
+    },
+    {
+        "Endere\u00e7o": "Av. Jornalista Aderbal G. Stresser, 651 - Cajuru , Curitiba - PR, 82970-010 ",
+        "NomeLugar": "Emiliano Perneta",
+        "coord": [
+            -49.201861,
+            -25.471103
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua At\u00edlio Piotto, 60 - Uberaba , Curitiba - PR, 81590-060 ",
+        "NomeLugar": "Herbert Jos\u00e9 de Souza",
+        "coord": [
+            -49.199592,
+            -25.479765
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Claudio Molinari - Cap\u00e3o da Imbuia , Curitiba - PR, 82810-230 ",
+        "NomeLugar": "Pablo Neruda",
+        "coord": [
+            -49.23,
+            -25.44
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Paulo de Frontin, 780 - Cajuru , Curitiba - PR, 82940-070 ",
+        "NomeLugar": "Samuel Chameki",
+        "coord": [
+            -49.213626,
+            -25.462291
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Robert Redzimski, 150 - Cidade Industrial , Curitiba - PR, 81270-000 ",
+        "NomeLugar": "Fernando Amaro de Miranda",
+        "coord": [
+            -49.350637,
+            -25.456992
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Arthur Martins Franco, 577 - Cidade Industrial , Curitiba - PR, 81350-100 ",
+        "NomeLugar": "Joaquim Nabuco",
+        "coord": [
+            -49.334593,
+            -25.507009
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Hilda Cadilhe de Oliveira - Cidade Industrial , Curitiba - PR, 81260-280 ",
+        "NomeLugar": "Padre Ant\u00f4nio Vieira",
+        "coord": [
+            -49.350081,
+            -25.486843
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Padre Estanislau Piasecki, 1037 - Cidade Industrial , Curitiba - PR, 81280-040 ",
+        "NomeLugar": "S\u00e9rgio Mercer",
+        "coord": [
+            -49.361197,
+            -25.43622
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Em\u00edlio Romani, 316 - Cidade Industrial , Curitiba - PR, 81460-020 ",
+        "NomeLugar": "Vin\u00edcius de Moraes",
+        "coord": [
+            -49.335122,
+            -25.530897
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Valentin Nichele, 486 - Pinheirinho , Curitiba - PR, 81150-200 ",
+        "NomeLugar": "Jos\u00e9 de Alencar",
+        "coord": [
+            -49.2963,
+            -25.52204
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Bras\u00edlio Pery Moreira, 17 - Pinheirinho , Curitiba - PR, 81870-060 ",
+        "NomeLugar": "Tasso da Silveira",
+        "coord": [
+            -49.296112,
+            -25.534525
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Jo\u00e3o Ribeiro Lemos, 361 - Novo Mundo , Curitiba - PR, 81020-270 ",
+        "NomeLugar": "Roberto Barrozo",
+        "coord": [
+            -49.28789,
+            -25.48769
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Luiz Leopoldo Landal - Novo Mundo , Curitiba - PR, 81050-390 ",
+        "NomeLugar": "Clarice Lispector",
+        "coord": [
+            -49.303111,
+            -25.489891
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Daniel Mikovski, 191 - Fazendinha , Curitiba - PR, 81320-140 ",
+        "NomeLugar": "Castro Alves",
+        "coord": [
+            -49.321486,
+            -25.480638
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Itacolomi, 700 - Port\u00e3o , Curitiba - PR, 81070-150 ",
+        "NomeLugar": "Rocha Pombo",
+        "coord": [
+            -49.311003,
+            -25.479584
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Zem Bertapelle, 55 - Santa Felicidade , Curitiba - PR, 82030-430 ",
+        "NomeLugar": "Dante Alighieri",
+        "coord": [
+            -49.330936,
+            -25.395427
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Alexandre Marcoski, 190 - S\u00e3o Braz , Curitiba - PR, 82015-570 ",
+        "NomeLugar": "Gon\u00e7alves Dias",
+        "coord": [
+            -49.34191,
+            -25.418025
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Ernesto Germano Francisco Hannemann, 592 - Tatuquara , Curitiba - PR, 81480-196 ",
+        "NomeLugar": "Dona Pomp\u00edlia",
+        "coord": [
+            -49.333461,
+            -25.559616
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Joel Jensen J\u00fanior  - \u00a0Barreirinha , Curitiba - PR, 82700-660 ",
+        "NomeLugar": "Pra\u00e7a Ant\u00f4nio Machado",
+        "coord": [
+            -49.256911,
+            -25.376285
+        ]
+    },
+    {
+        "Endere\u00e7o": "Alcides Darcanchy, 570  - Santa Felicidade , Curitiba - PR, 82410-160 ",
+        "NomeLugar": "Pra\u00e7a Aparecido Quinaglia ",
+        "coord": [
+            -49.333884,
+            -25.389314
+        ]
+    },
+    {
+        "Endere\u00e7o": "Primeiro de Maio, 1206\u00a0  - Xaxim , Curitiba - PR, 81810-000 ",
+        "NomeLugar": "Pra\u00e7a Aristides Vinholes ",
+        "coord": [
+            -49.276166,
+            -25.515283
+        ]
+    },
+    {
+        "Endere\u00e7o": "R. Eug\u00eanio Fl\u00f4r, 30  - Abranches , Curitiba - PR, 82130-290 ",
+        "NomeLugar": "Pra\u00e7a Cidades",
+        "coord": [
+            -49.27967,
+            -25.384738
+        ]
+    },
+    {
+        "Endere\u00e7o": "Av. C\u00e2ndido Hartmann, 1675\u00a0  - Bigorrilho , Curitiba - PR, 80710-510 ",
+        "NomeLugar": "Em\u00edlio de Menezes ",
+        "coord": [
+            -49.327703,
+            -25.415899
+        ]
+    },
+    {
+        "Endere\u00e7o": "R. Orlando Lu\u00eds Lamarca, 430  - Cidade Industrial , Curitiba - PR, 81315-660 ",
+        "NomeLugar": "Pra\u00e7a Frei Miguel Bottacin ",
+        "coord": [
+            -49.322283,
+            -25.501598
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Arthur Leinig, 635  - Vista Alegre , Curitiba - PR, 80810-300 ",
+        "NomeLugar": "Pra\u00e7a Machado De Assis ",
+        "coord": [
+            -49.292036,
+            -25.41104
+        ]
+    },
+    {
+        "Endere\u00e7o": "R. Curupaitis, 1449  - Santa Quiteria , Curitiba - PR, 80310-180 ",
+        "NomeLugar": "Pra\u00e7a Tom Jobim",
+        "coord": [
+            -49.304791,
+            -25.464062
+        ]
+    },
+    {
+        "Endere\u00e7o": "Rua Luiz Nichele, 99 - Umbar\u00e1 , Curitiba - PR, 81940-290 ",
+        "NomeLugar": "S\u00e3o Pedro E S\u00e3o Paulo ",
+        "coord": [
+            -49.289579,
+            -25.569878
+        ]
+    }
+]
